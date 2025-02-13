@@ -36,7 +36,7 @@ Cette commande installe **PyMuPDF**, une bibliothèque permettant de lire et mod
 
 2️⃣ **Créez un dossier `DOSSIER_PDF` où seront stockés les PDF à modifier.**
 
-3️⃣ **Double cliquez sur le fichier (`supprimer_mention.bat`)**
+3️⃣ **Double cliquez sur le fichier (`supprimer_mention.py`) ou sur le fichier (`supprimer_mention.bat`) si le premier ne lance pas l'exécution**
 
 4️⃣ **Les fichiers PDF modifiés seront enregistrés dans un dossier `MODIFIES`.**
 
