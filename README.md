@@ -1,6 +1,6 @@
 # Suppression de la mention SOLIDWORKS dans un PDF
 
-Ce projet permet de **supprimer automatiquement la mention "Produit d'éducation SOLIDWORKS – A titre éducatif uniquement."** dans un fichier PDF, tout en conservant les autres éléments du document.
+Ce projet permet de **supprimer automatiquement la mention "SOLIDWORKS éducation"** dans un fichier PDF, tout en conservant les autres éléments du document.
 
 ---
 
