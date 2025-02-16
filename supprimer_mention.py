@@ -23,7 +23,7 @@ fichiers_modifies = []
 fichiers_erreurs = []
 
 # Liste des fichiers PDF
-pdf_files = [f for f in os.listdir(DOSSIER_PDF) if f.endswith(".pdf")]
+pdf_files = [f for f in os.listdir(DOSSIER_PDF) if f.lower().endswith(".pdf")]
 
 # Vérifier s'il y a des fichiers PDF à traiter
 if not pdf_files:
