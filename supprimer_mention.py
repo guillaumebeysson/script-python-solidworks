@@ -15,7 +15,7 @@ os.makedirs(DOSSIER_SORTIE, exist_ok=True)
 TEXTE_A_SUPPRIMER = "Produit d'éducation SOLIDWORKS – A titre éducatif uniquement."
 
 # Décalage pour abaisser la zone de suppression
-DECALAGE_Y = 2.5  # Décalage vertical vers le bas
+DECALAGE_Y = 3.85  # Décalage vertical vers le bas
 DECALAGE_X = 1.75  # Décalage horizontal
 
 # Listes pour stocker les fichiers modifiés et ceux en erreur
