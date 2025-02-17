@@ -45,7 +45,7 @@ Cette commande installe **PyMuPDF**, une bibliothèque permettant de lire et mod
 ## 📝 **Explication du fonctionnement**
 
 - Le script **scanne tous les blocs de texte** du PDF.
-- Il **trouve le bloc contenant "Produit d'éducation SOLIDWORKS – A titre éducatif uniquement."**
+- Il **trouve le bloc contenant "SOLIDWORKS éducation"**
 - Il **abaisse légèrement la suppression** pour éviter de supprimer d'autres éléments du document.
 - Il **enregistre les fichiers PDF modifiés dans un dossier `MODIFIES`** sans toucher aux fichiers originaux.
 - N'hésitez pas à **modifier le script** et ajuster les paramètres **DECALAGE_X et DECALAGE_Y** selon vos besoins.
